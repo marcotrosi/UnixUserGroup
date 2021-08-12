@@ -30,6 +30,7 @@ Link collection for the Telegram UnixUserGroup
 
 # Youtube Channels
 - [DistroTube](https://www.youtube.com/c/DistroTube/videos)
+- [LearnLinuxtv](https://youtube.com/c/LearnLinuxtv)
 
 # Video Tutorials
 - [Bash Scripting Full Course 3 Hours](https://www.youtube.com/watch?v=e7BufAVwDiM)
