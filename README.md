@@ -24,6 +24,9 @@ Link collection for the Telegram UnixUserGroup
 - [Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 - [learnxinyminutes](https://learnxinyminutes.com/)
 - [rexegg](https://www.rexegg.com/)
+- [wooledge Bash Guide](http://mywiki.wooledge.org/FullBashGuide)
+- [wooledge Practices](https://mywiki.wooledge.org/BashGuide/Practices)
+- [wooledge FAQ](https://mywiki.wooledge.org/BashFAQ)
 
 # Cheat Sheets
 - [Posix](https://steinbaugh.com/posts/posix.html)
