@@ -22,15 +22,22 @@ Link collection for the Telegram UnixUserGroup
 - [linuxcommand.org](https://www.linuxcommand.org/tlcl.php/)
 - [The Art of CommandLine](https://github.com/jlevy/the-art-of-command-line)
 - [Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
+- [learnxinyminutes](https://learnxinyminutes.com/)
+- [rexegg](https://www.rexegg.com/)
 
 # Cheat Sheets
 - [Posix](https://steinbaugh.com/posts/posix.html)
 - [Quickref Bash](https://quickref.me/bash)
 - [ShellMagic](https://shellmagic.xyz/)
+- [cheatsheet.wtf/linuxcli](https://www.cheatsheet.wtf/linuxcli/)
+- [cheatsheet.wtf/Bash](https://www.cheatsheet.wtf/Bash/)
+- [cheatsheet.wtf/regularexpressions](https://www.cheatsheet.wtf/regularexpressions/)
+- [cheatsheet.wtf/ascii](https://www.cheatsheet.wtf/ascii/)
+- [rexegg](https://www.rexegg.com/regex-quickstart.html)
 
 # Youtube Channels
 - [DistroTube](https://www.youtube.com/c/DistroTube/videos)
-- [LearnLinuxtv](https://youtube.com/c/LearnLinuxtv)
+- [LearnLinuxTV](https://youtube.com/c/LearnLinuxtv)
 
 # Video Tutorials
 - [Bash Scripting Full Course 3 Hours](https://www.youtube.com/watch?v=e7BufAVwDiM)
