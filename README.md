@@ -31,6 +31,7 @@ Link collection for the Telegram UnixUserGroup
 # Cheat Sheets
 - [Posix](https://steinbaugh.com/posts/posix.html)
 - [Quickref Bash](https://quickref.me/bash)
+- [Quickref RegEx](https://quickref.me/regex)
 - [ShellMagic](https://shellmagic.xyz/)
 - [cheatsheet.wtf/linuxcli](https://www.cheatsheet.wtf/linuxcli/)
 - [cheatsheet.wtf/Bash](https://www.cheatsheet.wtf/Bash/)
@@ -39,6 +40,7 @@ Link collection for the Telegram UnixUserGroup
 - [rexegg](https://www.rexegg.com/regex-quickstart.html)
 - [remram44 regex](https://remram44.github.io/regex-cheatsheet/regex.html)
 - [learnbyexample regex](https://learnbyexample.github.io/gnu-bre-ere-cheatsheet/)
+
 
 # Youtube Channels
 - [DistroTube](https://www.youtube.com/c/DistroTube/videos)
