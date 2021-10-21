@@ -41,6 +41,12 @@ Link collection for the Telegram UnixUserGroup
 - [remram44 regex](https://remram44.github.io/regex-cheatsheet/regex.html)
 - [learnbyexample regex](https://learnbyexample.github.io/gnu-bre-ere-cheatsheet/)
 
+# Online Tools
+- [shellcheck.net](https://www.shellcheck.net/)
+- [regex101.com](https://regex101.com/)
+- [danstools.com](https://www.danstools.com/)
+- [onlineasciitools.com](https://onlineasciitools.com/)
+- [appdevtools.com](https://www.appdevtools.com/)
 
 # Youtube Channels
 - [DistroTube](https://www.youtube.com/c/DistroTube/videos)
