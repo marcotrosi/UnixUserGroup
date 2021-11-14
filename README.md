@@ -53,7 +53,8 @@ Link collection for the Telegram UnixUserGroup
 - [LearnLinuxTV](https://youtube.com/c/LearnLinuxtv)
 
 # Video Tutorials
-- [Bash Scripting Full Course 3 Hours](https://www.youtube.com/watch?v=e7BufAVwDiM)
+- [Unix Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
+- [Bash Scripting](https://www.youtube.com/watch?v=e7BufAVwDiM)
 
 # Terminal Stuff
 - [Terminals Are Sexy](https://terminalsare.sexy/)
