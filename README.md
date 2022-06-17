@@ -60,10 +60,11 @@ Link collection for the Telegram UnixUserGroup
 # Terminal Stuff
 - [Terminals Are Sexy](https://terminalsare.sexy/)
 
+# Window Managers
+- [The Comprehensive List of Window Managers for Unix](https://www.gilesorr.com/wm/table.html)
+
 # Mechanical Keyboards
-## Vendors
-## DIY
-## Communities
+- [mechanical-keyboards.github.io](https://mechanical-keyboards.github.io/)
 
 # Books
 - [The Linux Command Line, 2nd Edition - ISBN 10: 1593279523 / ISBN 13: 9781593279523](https://www.amazon.de/Linux-Command-Line-2nd-Introduction/dp/1593279523/ref=sr_1_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=linux&qid=1628763699&refinements=p_n_feature_three_browse-bin%3A4192709031&rnid=4192708031&s=books&sr=1-4)
