@@ -1,6 +1,10 @@
 # UnixUserGroup
 Link collection for the Telegram UnixUserGroup
 
+# Unix & Unixoids Overview
+- [Wiki Unix OS Chart](https://upload.wikimedia.org/wikipedia/commons/6/64/Revised_Unix_OS_Chart.png)
+- [Wiki Linux Distros](https://upload.wikimedia.org/wikipedia/commons/b/b5/Linux_Distribution_Timeline_21_10_2021.svg)
+
 # Other Telegram Groups
 - [DE_WM](https://t.me/DE_WM)
 
