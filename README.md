@@ -14,6 +14,7 @@ Link collection for the Telegram UnixUserGroup
 - [man7.org](https://man7.org/index.html)
 - [man7.org man-pages](https://man7.org/linux/man-pages/index.html)
 - [kernel.org](https://www.kernel.org/doc/man-pages/)
+- [shellhaters.org](https://shellhaters.org/)
 
 # Tutorials
 - [Unix](http://www.ee.surrey.ac.uk/Teaching/Unix/)
